@@ -1,2 +1,2 @@
 # vacaturebank
-This is an old school project from a couple of years ago.
+School project 2017 : where companies can post a vacancy and applicants can respond to a vacancy
